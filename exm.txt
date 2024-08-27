@@ -1,0 +1,16 @@
+        <div class="game" data-title="Jeu 2">
+            <div class="droite">
+                <img src="image.png" width="70" alt="Jeu 2">
+            </div>
+            <div class="game-details">
+                <h2>Jeu 2</h2>
+                <p>Taille : 2 Go</p>
+                <p>Status : hors connection</p>
+                <p>Version : 1.1    Type : Strategie</p>
+            </div>
+            <a href="https://site-tiers.com/jeu2.zip" download style="font-size: 5px; display: inline-block; text-align: left;">
+                <img src="PhotoImage/download.png" width="50" height="50" alt="Télécharger">
+            </a>
+
+        </div>
+        

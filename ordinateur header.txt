@@ -1,0 +1,11 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.70">
+    <title>Accueil - Téléchargement de Jeux</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="header">
+        <h1>Bienvenue sur notre site de Téléchargement de Jeux</h1>
+    </div>
